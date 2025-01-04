@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋 , Sebastian Navarro here!!
+Computer Engineer, Master Data Science, Data lover 😄 
 
 <!--
 **snavarros/snavarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Curious about technologies, with the opportunity to test these technologies.
+[![My Skills](https://skillicons.dev/icons?i=bash,python,anaconda,rust,actix,bevy,typescript,js,html,css,wasm,apple,arduino,azure,bitbucket,github)](https://skillicons.dev)
