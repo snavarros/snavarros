@@ -1,6 +1,9 @@
-## Sebastian Navarro.
-### Computer Engineer | Master Data Science | Data Enthusiast 😄 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
+# Sebastian Navarro.
+### Computer Engineering | Master Data Science |
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/snavarros) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebastian.navarro.saavedra@gmail.com) 
+
 
 ## Tech Stack
 > Curious about technologies, with the opportunity to test these technologies.
