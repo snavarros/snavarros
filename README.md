@@ -1,5 +1,5 @@
 # Sebastian Navarro.
-### Bachelor's degree in computer science & Master of Data Science 
+### Bachelor's degree in **Computer Science** & **Master of Data Science**
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/snavarros) 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebastian.navarro.saavedra@gmail.com) 
